@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-Copy-3" transform="translate(-374.000000, -3158.000000)">
+            <g id="Group" transform="translate(374.000000, 3158.000000)">
+                <rect id="Rectangle" fill="#0B0B0B" x="0" y="0" width="84" height="84"></rect>
+                <path d="M81.0708168,43.0154404 C72.0335472,33.184991 57.0386524,22.7937669 41.9993233,23.0032129 C26.9599941,22.7903887 11.9650993,33.1883692 2.92441171,43.0154404 C0.35852943,45.8507228 0.35852943,50.1389774 2.92441171,52.9742599 C11.8557224,62.6999862 26.6421174,73 41.4490205,73 L42.5017736,73 C57.3599472,73 72.1395061,62.6999862 81.0810709,52.9708817 C83.6435547,50.1341276 83.639139,45.8470323 81.0708168,43.0154404 Z M26,48.5 C26,39.9395864 32.9395864,33 41.5,33 C50.0604136,33 57,39.9395864 57,48.5 C57,57.0604136 50.0604136,64 41.5,64 C32.9395864,64 26,57.0604136 26,48.5 Z" id="Shape" fill="#4B61EB" fill-rule="nonzero"></path>
+                <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="42" cy="48" r="7"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

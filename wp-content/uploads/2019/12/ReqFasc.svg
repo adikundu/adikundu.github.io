@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Group 6 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-Copy-3" transform="translate(-1004.000000, -2595.000000)">
+            <g id="Group-6-Copy" transform="translate(1004.000000, 2595.000000)">
+                <rect id="Rectangle-Copy-10" fill="#0B0B0B" x="0" y="0" width="82" height="82"></rect>
+                <g id="curious" transform="translate(11.000000, 11.000000)" fill-rule="nonzero">
+                    <circle id="Oval" fill="#FFFFFF" cx="30" cy="30" r="30"></circle>
+                    <g id="Group" transform="translate(22.000000, 19.000000)" fill="#0B0B0B">
+                        <ellipse id="Oval" cx="20.6866414" cy="3.69463548" rx="3.76103658" ry="3.69417371"></ellipse>
+                        <path d="M13.1645683,25.8596777 L1.88145855,25.8596777 C0.843412453,25.8596777 0.000940259145,25.0321828 0.000940259145,24.0125909 C0.000940259145,22.9929989 0.843412453,22.165504 1.88145855,22.165504 L13.1645683,22.165504 C14.2026144,22.165504 15.0450866,22.9929989 15.0450866,24.0125909 C15.0450866,25.0321828 14.2026144,25.8596777 13.1645683,25.8596777 Z" id="Path"></path>
+                    </g>
+                    <path d="M1.93420544,43 C1.4392963,43 0.944387163,42.8105304 0.565472355,42.4354579 C-0.188490785,41.6814462 -0.188490785,40.4556938 0.565472355,39.701682 L11.700928,28.5655088 C12.4548911,27.8114971 13.6805645,27.8114971 14.4345276,28.5655088 C15.1884908,29.3195205 15.1884908,30.5452729 14.4345276,31.2992847 L3.29907205,42.4354579 C2.92402371,42.8105304 2.42911458,43 1.93420544,43 Z" id="Path" fill="#4B61EB"></path>
+                    <circle id="Oval" fill="#4B61EB" cx="21" cy="22" r="13"></circle>
+                    <circle id="Oval" fill="#0B0B0B" cx="20.5" cy="22.5" r="3.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

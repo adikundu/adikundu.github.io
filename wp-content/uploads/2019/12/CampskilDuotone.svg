@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="265px" viewBox="0 0 300 265" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Duotone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="53.7634409 34.3888964 107.526882 88.121547 0 88.121547"></polygon>
+        <polygon id="path-3" points="53.7569481 34.3187904 53.7569481 141.435915 175.268817 264.364641 175.268817 155.824687"></polygon>
+        <polygon id="path-5" points="169.517271 0 299.624798 0 127.496827 216.064791 53.7586499 141.439396"></polygon>
+    </defs>
+    <g id="Duotone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy-2">
+            <g>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Triangle" fill="#F5CB22" xlink:href="#path-1"></use>
+                <polygon id="Path-4" fill="#E5B314" mask="url(#mask-2)" points="53.8805079 34.3478622 43.6297917 91.7938109 61.3887828 91.7938109 58.7231416 44.1308916 57.8805358 30.8875395"></polygon>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Rectangle-2" fill="#F5CB22" xlink:href="#path-3"></use>
+                <polygon id="Path-2" fill="#E5B314" mask="url(#mask-4)" points="53.7562039 141.595045 94.1514003 74.153402 131.651493 95.0099242 98.6792083 133.625251"></polygon>
+                <polygon id="Path-3" fill="#E5B314" mask="url(#mask-4)" points="127.521596 216.06355 179.036399 170.073404 202.622544 136.308002 169.882565 114.298644 130.302058 187.631376 115.855273 206.69935"></polygon>
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Rectangle" fill="#F5CB22" xlink:href="#path-5"></use>
+            </g>
+        </g>
+    </g>
+</svg>
